@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub repository! Here's a link to [LinkedIn](www.linkedin.com/in/nam-le-76b7a7183) where you can learn more about me.
+Welcome to my GitHub repository! Here's a link to [LinkedIn](https://www.linkedin.com/in/nam-le-76b7a7183/) where you can learn more about me.
 
 I am a Blockchain - Back End Developer from VietNam.
 
