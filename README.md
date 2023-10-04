@@ -27,9 +27,3 @@ I am a Blockchain - Back End Developer from VietNam.
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Java" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namle133&theme=dark&background=000000)](https://git.io/streak-stats)
