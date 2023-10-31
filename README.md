@@ -17,7 +17,7 @@
 
 Welcome to my GitHub repository! Here's a link to [LinkedIn](https://www.linkedin.com/in/nam-le-76b7a7183/) where you can learn more about me.
 
-I am a Blockchain - Back End Developer from VietNam.
+Software engineer with 2 years in Blockchain - Web applications, proficient in Golang-Python base-back-end development
 
 ### :hammer_and_wrench: Languages and Tools :
 
