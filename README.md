@@ -25,7 +25,7 @@ I'm particularly interested in **Distributed Systems, Data Engineering, Artifici
 - ☁️ Working with **Docker and AWS**
 - 🎓 Interested in **Computer Science, AI/ML, Data Engineering, and Distributed Systems**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nam-le-76b7a7183/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nam-le-vn0311/)
 
 ---
 
@@ -39,7 +39,6 @@ I'm particularly interested in **Distributed Systems, Data Engineering, Artifici
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
 </div>
